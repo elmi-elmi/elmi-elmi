@@ -1,5 +1,21 @@
 ### Hi there 👋
 
+# Vanilla Javascript
+---
+# HTML & CSS
+---
+# VUE.JS
+---
+# NUXT.JS
+---
+# Tailwindcss
+---
+# SASS/SCSS
+---
+# Typescript
+---
+# Node.JS
+
 
 <!-- 
 **elmi-elmi/elmi-elmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
