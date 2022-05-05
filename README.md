@@ -5,12 +5,15 @@
 # HTML & CSS
 ---
 # VUE.JS
+<a href="trello-clone-elmi.netlify.app">Trello-Clone</a> ---- <a href="https://github.com/elmi-elmi/Demo-Watch-Us-Build-a-Trello-Clone">Code<a/>
 ---
 # NUXT.JS
 ---
 # Tailwindcss
 ---
 # SASS/SCSS
+
+<a href="https://trillo-elmi-elmi.netlify.app/">Trillo</a> ---- <a href="https://github.com/elmi-elmi/Demo-Trillo-sass">Code<a/>
 ---
 # Typescript
 ---
