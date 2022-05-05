@@ -5,7 +5,7 @@
 # HTML & CSS
 ---
 # VUE.JS
-<a href="trello-clone-elmi.netlify.app">Trello-Clone</a> ---- <a href="https://github.com/elmi-elmi/Demo-Watch-Us-Build-a-Trello-Clone">Code<a/>
+<a href="https://trello-clone-elmi.netlify.app/">Trello-Clone</a> ---- <a href="https://github.com/elmi-elmi/Demo-Watch-Us-Build-a-Trello-Clone">Code<a/>
 ---
 # NUXT.JS
 ---
