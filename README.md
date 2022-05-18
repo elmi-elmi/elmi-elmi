@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # Vanilla Javascript
-### MVM Pattern Design:
+### MVC :
 
 <a href="https://forkify-elmi-elmi.netlify.app/">Forkify</a> ---- <a href="https://github.com/elmi-elmi/demo-js-Fokify-app">Code<a/>
  
