@@ -10,8 +10,6 @@
 ---
 # HTML & CSS
  
-<a href="https://natours-elmi-elmi.netlify.app/">Natours</a> ---- <a href="https://github.com/elmi-elmi/demo-CSS-Natours">Code<a/>
- 
 <a href="https://omnifood-elmi-elmi.netlify.app/">Omnifood</a> ---- <a href="https://github.com/elmi-elmi/demo-Omnifood">Code<a/>
  
 ---
@@ -19,7 +17,7 @@
  
 <a href="https://trello-clone-elmi.netlify.app/">Trello-Clone</a> ---- <a href="https://github.com/elmi-elmi/Demo-Watch-Us-Build-a-Trello-Clone">Code<a/>
  
-<a href="https:// music-ztm-elmi-elmi.netlify.app/">Music Player</a> ---- <a href="https://github.com/elmi-elmi/demo-vuejs-music">Code<a/>
+<a href="https://music-ztm-elmi-elmi.netlify.app/">Music Player</a> ---- <a href="https://github.com/elmi-elmi/demo-vuejs-music">Code<a/>
 
 ---
 # NUXT.JS
@@ -31,11 +29,12 @@
 ---
 # Tailwindcss
  
-  <a href="tailwindcss-miniprj-elmi-elmi.netlify.app">mini prj</a> ---- <a href="https://github.com/elmi-elmi/demo-scale-vue-nuxt">Code<a/>
+  <a href="https://tailwindcss-miniprj-elmi-elmi.netlify.app">mini prj</a> ---- <a href="https://github.com/elmi-elmi/demo-scale-vue-nuxt">Code<a/>
  
 ---
 # SASS/SCSS
-
+<a href="https://natours-elmi-elmi.netlify.app/">Natours</a> ---- <a href="https://github.com/elmi-elmi/demo-CSS-Natours">Code<a/>
+ 
 <a href="https://trillo-elmi-elmi.netlify.app/">Trillo</a> ---- <a href="https://github.com/elmi-elmi/Demo-Trillo-sass">Code<a/>
  
 ---
