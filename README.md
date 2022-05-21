@@ -1,17 +1,28 @@
 ### Hi there 👋
 
 # Vanilla Javascript
-### MVC :
 
-<a href="https://forkify-elmi-elmi.netlify.app/">Forkify</a> ---- <a href="https://github.com/elmi-elmi/demo-js-Fokify-app">Code<a/>
+
+<a href="https://forkify-elmi-elmi.netlify.app/">Forkify</a> ---- <a href="https://github.com/elmi-elmi/demo-js-Fokify-app">Code<a/> (MVC)
  
 <a href="https://mapty-elmi-elmi.netlify.app/">Mapty</a> ---- <a href="https://github.com/elmi-elmi/Demo-Mapty-JS">Code<a/>
  
 ---
-# HTML & CSS
+# HTML & CSS 
  
 <a href="https://omnifood-elmi-elmi.netlify.app/">Omnifood</a> ---- <a href="https://github.com/elmi-elmi/demo-Omnifood">Code<a/>
  
+  
+
+#### SASS/SCSS:
+<a href="https://natours-elmi-elmi.netlify.app/">Natours</a> ---- <a href="https://github.com/elmi-elmi/demo-CSS-Natours">Code<a/>
+ 
+<a href="https://trillo-elmi-elmi.netlify.app/">Trillo</a> ---- <a href="https://github.com/elmi-elmi/Demo-Trillo-sass">Code<a/>
+ 
+#### Tailwindcss:
+ 
+  <a href="https://tailwindcss-miniprj-elmi-elmi.netlify.app">mini prj</a> ---- <a href="https://github.com/elmi-elmi/demo-scale-vue-nuxt">Code<a/>
+
 ---
 # VUE.JS
  
@@ -19,31 +30,27 @@
  
 <a href="https://music-ztm-elmi-elmi.netlify.app/">Music Player</a> ---- <a href="https://github.com/elmi-elmi/demo-vuejs-music">Code<a/>
 
----
-# NUXT.JS
+##### NUXT.JS:
  
- <a href="https://scale-nuxt-elmi-elmi.netlify.app/">scale Nuxt</a> ---- <a href="https://github.com/elmi-elmi/demo-scale-vue-nuxt">Code<a/>
+ <a href="https://scale-nuxt-elmi-elmi.netlify.app/">Scale Nuxt</a> ---- <a href="https://github.com/elmi-elmi/demo-scale-vue-nuxt">Code<a/>
  
  <a href="https://nuxt-mxm-elmi-elmi.netlify.app/">Nuxt-mxm</a> ---- <a href="https://github.com/elmi-elmi/demo-nuxt-4">Code<a/>
+
+#### Vuetify:
  
+
 ---
-# Tailwindcss
- 
-  <a href="https://tailwindcss-miniprj-elmi-elmi.netlify.app">mini prj</a> ---- <a href="https://github.com/elmi-elmi/demo-scale-vue-nuxt">Code<a/>
- 
----
-# SASS/SCSS
-<a href="https://natours-elmi-elmi.netlify.app/">Natours</a> ---- <a href="https://github.com/elmi-elmi/demo-CSS-Natours">Code<a/>
- 
-<a href="https://trillo-elmi-elmi.netlify.app/">Trillo</a> ---- <a href="https://github.com/elmi-elmi/Demo-Trillo-sass">Code<a/>
- 
----
+
 # Typescript
  
 <a href="https://ts-framwork-elmi-elmi.netlify.app.netlify.app/">Ts-Framwork</a> ---- <a href="https://github.com/elmi-elmi/demo-TS-web-framwork">Code<a/>
  
 ---
 # Node.JS
+----
+ 
+# GraphQL
+---
 
 
 <!-- 
