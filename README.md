@@ -21,7 +21,7 @@
  
 #### Tailwindcss:
  
-  <a href="https://tailwindcss-miniprj-elmi-elmi.netlify.app">mini prj</a> ---- <a href="https://github.com/elmi-elmi/demo-scale-vue-nuxt">Code<a/>
+  <a href="https://tailwindcss-miniprj-elmi-elmi.netlify.app">mini prj</a> ---- <a href="https://github.com/elmi-elmi/demo-tailwind-miniprjct">Code<a/>
 
 ---
 # VUE.JS
@@ -37,8 +37,9 @@
  <a href="https://nuxt-mxm-elmi-elmi.netlify.app/">Nuxt-mxm</a> ---- <a href="https://github.com/elmi-elmi/demo-nuxt-4">Code<a/>
 
 #### Vuetify:
- 
 
+ <a href="https://vuetify-dashboard-elmi-elmi.netlify.app/">Vuetify-Dashboard</a> ---- <a href="https://github.com/elmi-elmi/demo-vuetify-dashboard">Code<a/>
+ 
 ---
 
 # Typescript
