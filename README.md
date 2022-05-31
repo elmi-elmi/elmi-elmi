@@ -19,16 +19,16 @@
  
 <a href="https://trillo-elmi-elmi.netlify.app/">Trillo</a> ---- <a href="https://github.com/elmi-elmi/Demo-Trillo-sass">Code<a/> (Flexbox)
  
-<a href="https://nexter-elmi-elmi.netlify.app/">Nexter</a> ---- <a href="https://github.com/elmi-elmi/demo-Nexter-Project">Code<a/>(Grid) (The project is not yet complete.)
+<a href="https://nexter-elmi-elmi.netlify.app/">Nexter</a> ---- <a href="https://github.com/elmi-elmi/demo-Nexter-Project">Code<a/>(Grid) 
  
 #### Tailwindcss:
  
-  <a href="https://tailwindcss-miniprj-elmi-elmi.netlify.app">mini prj</a> ---- <a href="https://github.com/elmi-elmi/demo-tailwind-miniprjct">Code<a/>
+  <a href="https://tailwindcss-miniprj-elmi-elmi.netlify.app">mini prj</a> ---- <a href="https://github.com/elmi-elmi/demo-tailwind-miniprjct">Code<a/>(Not yet completed)
 
 ---
 # VUE.JS
  
-<a href="https://trello-clone-elmi.netlify.app/">Trello-Clone</a> ---- <a href="https://github.com/elmi-elmi/Demo-Watch-Us-Build-a-Trello-Clone">Code<a/> (Draggable todo app)(not completed)
+<a href="https://trello-clone-elmi.netlify.app/">Trello-Clone</a> ---- <a href="https://github.com/elmi-elmi/Demo-Watch-Us-Build-a-Trello-Clone">Code<a/> (Draggable todo app)(Not yet completed)
  
 <a href="https://music-ztm-elmi-elmi.netlify.app/">Music Player</a> ---- <a href="https://github.com/elmi-elmi/demo-vuejs-music">Code<a/>
 
