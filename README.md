@@ -30,7 +30,7 @@
  
 <a href="https://trello-clone-elmi.netlify.app/">Trello-Clone</a> ---- <a href="https://github.com/elmi-elmi/Demo-Watch-Us-Build-a-Trello-Clone">Code<a/> (Draggable todo app)(Not yet completed)
  
-<a href="https://music-ztm-elmi-elmi.netlify.app/">Music Player</a> ---- <a href="https://github.com/elmi-elmi/demo-vuejs-music">Code<a/> (not completed yet)
+<a href="https://music-ztm-elmi-elmi.netlify.app/">Music Player</a> ---- <a href="https://github.com/elmi-elmi/demo-vuejs-music">Code<a/> (not yet completed)
  
  <a href="https://animating-vue-elmi-elmi.netlify.app/">Animating-Vue</a> ---- <a href="https://github.com/elmi-elmi/demo-vue-animating-2">Code<a/>
 
@@ -38,7 +38,7 @@
  
  <a href="https://scale-nuxt-elmi-elmi.netlify.app/">Scale Nuxt</a> ---- <a href="https://github.com/elmi-elmi/demo-scale-vue-nuxt">Code<a/>
  
- <a href="https://nuxt-mxm-elmi-elmi.netlify.app/">Nuxt-mxm</a> ---- <a href="https://github.com/elmi-elmi/demo-nuxt-4">Code<a/> (not completed yet)
+ <a href="https://nuxt-mxm-elmi-elmi.netlify.app/">Nuxt-mxm</a> ---- <a href="https://github.com/elmi-elmi/demo-nuxt-4">Code<a/> (not yet completed)
 
 #### Vuetify:
 
@@ -48,7 +48,7 @@
 
 # Typescript
  
-<a href="https://ts-framwork-elmi-elmi.netlify.app.netlify.app/">Ts-Framwork</a> ---- <a href="https://github.com/elmi-elmi/demo-TS-web-framwork">Code<a/> (not completed yet)
+<a href="https://ts-framwork-elmi-elmi.netlify.app.netlify.app/">Ts-Framwork</a> ---- <a href="https://github.com/elmi-elmi/demo-TS-web-framwork">Code<a/> (not yet completed)
  
 ---
 # Node.JS
