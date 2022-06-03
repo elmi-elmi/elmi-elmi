@@ -33,6 +33,11 @@
 <a href="https://music-ztm-elmi-elmi.netlify.app/">Music Player</a> ---- <a href="https://github.com/elmi-elmi/demo-vuejs-music">Code<a/> (not yet completed)
  
  <a href="https://animating-vue-elmi-elmi.netlify.app/">Animating-Vue</a> ---- <a href="https://github.com/elmi-elmi/demo-vue-animating-2">Code<a/>
+ 
+ <a href="https://50days-elmi-elmi.netlify.app/">50 days</a> ---- <a href="https://github.com/elmi-elmi/demo-50days">Code<a/> (I've just started this project)
+ 
+ 
+ 
 
 ##### NUXT.JS:
  
