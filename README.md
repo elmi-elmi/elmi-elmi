@@ -3,7 +3,7 @@
 # Vanilla Javascript
 
 
-<a href="https://forkify-elmi-elmi.netlify.app/">Forkify</a> ---- <a href="https://github.com/elmi-elmi/demo-js-Fokify-app">Code<a/> (MVC) -- Would you like to find recipe for cooking? search pizza or ....
+<a href="https://forkify-elmi-elmi.netlify.app/">Forkify</a> ---- <a href="https://github.com/elmi-elmi/demo-js-Fokify-app">Code<a/> (MVC) -- Would you like to find recipe for a cooking? search pizza or ....
  
 <a href="https://mapty-elmi-elmi.netlify.app/">Mapty</a> ---- <a href="https://github.com/elmi-elmi/Demo-Mapty-JS">Code<a/> -- Save your Movements on your real location
  
