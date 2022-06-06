@@ -32,7 +32,7 @@
  
 <a href="https://music-ztm-elmi-elmi.netlify.app/">Music Player</a> ---- <a href="https://github.com/elmi-elmi/demo-vuejs-music">Code<a/> (not yet completed) -- Signup and upload your music here, and listen it when you want - ( the files save on firebase )
  
- <a href="https://animating-vue-elmi-elmi.netlify.app/">Animating-Vue</a> ---- <a href="https://github.com/elmi-elmi/demo-vue-animating-2">Code<a/> (I use gsap tools here)
+ <a href="https://animating-vue-elmi-elmi.netlify.app/">Animating-Vue</a> ---- <a href="https://github.com/elmi-elmi/demo-vue-animating-2">Code<a/> (I've used gsap tools here)
  
  <a href="https://50days-elmi-elmi.netlify.app/">50 days</a> ---- <a href="https://github.com/elmi-elmi/demo-50days">Code<a/> (I've just started this project)
  
@@ -57,7 +57,7 @@
  
 ---
 # Node.JS
-<a href="https://elmi-elmi-weather-app.herokuapp.com/">Weather App</a> ---- <a href="https://github.com/elmi-elmi/demo-node-web-server">Code<a/> (Using mapbox api and weatherstack api. Please search the name of your city and see the result)
+<a href="https://elmi-elmi-weather-app.herokuapp.com/">Weather App</a> ---- <a href="https://github.com/elmi-elmi/demo-node-web-server">Code<a/> (Using mapbox api and weatherstack api.Search the city and see the results)
  
  
 ----
