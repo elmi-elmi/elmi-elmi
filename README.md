@@ -3,9 +3,9 @@
 # Vanilla Javascript
 
 
-<a href="https://forkify-elmi-elmi.netlify.app/">Forkify</a> ---- <a href="https://github.com/elmi-elmi/demo-js-Fokify-app">Code<a/> (MVC)
+<a href="https://forkify-elmi-elmi.netlify.app/">Forkify</a> ---- <a href="https://github.com/elmi-elmi/demo-js-Fokify-app">Code<a/> (MVC) -- Would you like to find recipe for cooking? search pizza or ....
  
-<a href="https://mapty-elmi-elmi.netlify.app/">Mapty</a> ---- <a href="https://github.com/elmi-elmi/Demo-Mapty-JS">Code<a/>
+<a href="https://mapty-elmi-elmi.netlify.app/">Mapty</a> ---- <a href="https://github.com/elmi-elmi/Demo-Mapty-JS">Code<a/> -- Save your Movements on your real location
  
 ---
 # HTML & CSS 
@@ -28,11 +28,11 @@
 ---
 # VUE.JS
  
-<a href="https://trello-clone-elmi.netlify.app/">Trello-Clone</a> ---- <a href="https://github.com/elmi-elmi/Demo-Watch-Us-Build-a-Trello-Clone">Code<a/> (Draggable todo app)(Not yet completed)
+<a href="https://trello-clone-elmi.netlify.app/">Trello-Clone</a> ---- <a href="https://github.com/elmi-elmi/Demo-Watch-Us-Build-a-Trello-Clone">Code<a/> (Draggable todo app)(Not yet completed) -- Drag column and row and change thier position
  
-<a href="https://music-ztm-elmi-elmi.netlify.app/">Music Player</a> ---- <a href="https://github.com/elmi-elmi/demo-vuejs-music">Code<a/> (not yet completed)
+<a href="https://music-ztm-elmi-elmi.netlify.app/">Music Player</a> ---- <a href="https://github.com/elmi-elmi/demo-vuejs-music">Code<a/> (not yet completed) -- signup and upload you music here and listen it when you want - ( the file save on firebase )
  
- <a href="https://animating-vue-elmi-elmi.netlify.app/">Animating-Vue</a> ---- <a href="https://github.com/elmi-elmi/demo-vue-animating-2">Code<a/>
+ <a href="https://animating-vue-elmi-elmi.netlify.app/">Animating-Vue</a> ---- <a href="https://github.com/elmi-elmi/demo-vue-animating-2">Code<a/> (I use gsap tools here)
  
  <a href="https://50days-elmi-elmi.netlify.app/">50 days</a> ---- <a href="https://github.com/elmi-elmi/demo-50days">Code<a/> (I've just started this project)
  
@@ -53,11 +53,11 @@
 
 # Typescript
  
-<a href="https://ts-framwork-elmi-elmi.netlify.app.netlify.app/">Ts-Framwork</a> ---- <a href="https://github.com/elmi-elmi/demo-TS-web-framwork">Code<a/> (not yet completed)
+<a href="https://ts-framwork-elmi-elmi.netlify.app.netlify.app/">Ts-Framwork</a> ---- <a href="https://github.com/elmi-elmi/demo-TS-web-framwork">Code<a/> (not yet completed) (Despite the ugly style, the code isn't bad)
  
 ---
 # Node.JS
-<a href="https://elmi-elmi-weather-app.herokuapp.com/">Weather App</a> ---- <a href="https://github.com/elmi-elmi/demo-node-web-server">Code<a/>
+<a href="https://elmi-elmi-weather-app.herokuapp.com/">Weather App</a> ---- <a href="https://github.com/elmi-elmi/demo-node-web-server">Code<a/> (Using mapbox api and weatherstack api. Please search the name of your city and see the result)
  
  
 ----
