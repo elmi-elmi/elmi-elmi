@@ -28,6 +28,8 @@
 ---
 # VUE.JS
  
+ <a href="https://noteballs-elmi-elmi.netlify.app/#/">Noteballs</a> ---- <a href="https://github.com/elmi-elmi/vue-noteball">Code<a/> Not completed
+ 
 <a href="https://trello-clone-elmi.netlify.app/">Trello-Clone</a> ---- <a href="https://github.com/elmi-elmi/Demo-Watch-Us-Build-a-Trello-Clone">Code<a/> (Draggable todo app)(Not yet completed) -- Drag columns and rows and change thier position
  
 <a href="https://music-ztm-elmi-elmi.netlify.app/">Music Player</a> ---- <a href="https://github.com/elmi-elmi/demo-vuejs-music">Code<a/> (not yet completed) -- Signup and upload your music here, and listen it when you want - ( the files save on firebase )
