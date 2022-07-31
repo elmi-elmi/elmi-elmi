@@ -28,9 +28,9 @@
 ---
 # VUE.JS
 
- <a href="https://github.com/elmi-elmi/task-again-stock-management2>Code Stock Management<a/> (Vuetify)
+ <a href="https://github.com/elmi-elmi/task-again-stock-management2">Code Stock Management 2<a/> (Vuetify)
  
- <a href="https://github.com/elmi-elmi/task-stock-management>Code Stock Management<a/> (vuetify)
+ <a href="https://github.com/elmi-elmi/task-stock-management">Code Stock Management 1<a/> (vuetify)
   
  <a href="https://noteballs-elmi-elmi.netlify.app/#/">Noteballs</a> ---- <a href="https://github.com/elmi-elmi/vue-noteball">Code<a/> Not completed
  
