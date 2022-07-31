@@ -27,7 +27,11 @@
 
 ---
 # VUE.JS
+
+ <a href="https://github.com/elmi-elmi/task-again-stock-management2>Code Stock Management<a/> (Vuetify)
  
+ <a href="https://github.com/elmi-elmi/task-stock-management>Code Stock Management<a/> (vuetify)
+  
  <a href="https://noteballs-elmi-elmi.netlify.app/#/">Noteballs</a> ---- <a href="https://github.com/elmi-elmi/vue-noteball">Code<a/> Not completed
  
 <a href="https://trello-clone-elmi.netlify.app/">Trello-Clone</a> ---- <a href="https://github.com/elmi-elmi/Demo-Watch-Us-Build-a-Trello-Clone">Code<a/> (Draggable todo app)(Not yet completed) -- Drag columns and rows and change thier position
