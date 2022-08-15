@@ -24,7 +24,7 @@
  
 #### Tailwindcss:
  
-  <a href="https://tailwindcss-miniprj-elmi-elmi.netlify.app">mini prj</a> ---- <a href="https://github.com/elmi-elmi/demo-tailwind-miniprjct">Code<a/>(Not yet completed)
+  <a href="https://tailwindcss-miniprj-elmi-elmi.netlify.app">mini prj</a> ---- <a href="https://github.com/elmi-elmi/demo-tailwind-miniprjct">Code<a/>
 
 ---
 # VUE.JS
