@@ -31,7 +31,9 @@
 
 ---
 # VUE.JS
-
+ 
+ <a href="https://github.com/elmi-elmi/finno-task">Cryptocurrency<a/> (crypto chart and panel | vuetify)
+  
  <a href="https://github.com/elmi-elmi/task-again-stock-management2">Code Stock Management 2<a/> (Vuetify)
  
  <a href="https://github.com/elmi-elmi/task-stock-management">Code Stock Management 1<a/> (vuetify)
