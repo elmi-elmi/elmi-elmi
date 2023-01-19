@@ -1,7 +1,13 @@
 ### Hi there 👋
 
-# Vanilla Javascript
+My new Projects (in progress):
 
+<a href="https://github.com/elmi-elmi/node-ztm-09-nasa">node.JS</a>
+
+<a href="https://github.com/elmi-elmi/vue-tdd-job-search">Vue.JS</a>
+
+---
+# Vanilla Javascript
 
 <a href="https://forkify-elmi-elmi.netlify.app/">Forkify</a> ---- <a href="https://github.com/elmi-elmi/demo-js-Fokify-app">Code<a/> (MVC) -- Would you like to find recipe for a cooking? search pizza or ....
  
