@@ -17,6 +17,12 @@ Intervue tasks I've done:
 1 - <a href="https://github.com/elmi-elmi/task-ysntm">Condut</a>
 
 2 -  <a href="https://github.com/elmi-elmi/finno-task">Cryptocurrency<a/> (crypto chart and panel | vuetify)
+user and password for login:
+
+  <a href="https://elmi-crypto.netlify.app/">seeOnNetlify</a> (username: eve.holt@reqres.in , password:cityslicka)
+  
+   
+  
   
 3 - <a href="https://github.com/elmi-elmi/task-again-stock-management2">Code Stock Management 2<a/> (Vuetify)
  
