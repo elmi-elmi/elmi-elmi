@@ -12,6 +12,17 @@ My new Projects (in progress):
 
 <a href="https://github.com/elmi-elmi/vue-tdd-job-search">Vue.JS</a>
 
+Intervue task I've done:
+
+1 - <a href="https://github.com/elmi-elmi/task-ysntm">Condut</a>
+
+2 -  <a href="https://github.com/elmi-elmi/finno-task">Cryptocurrency<a/> (crypto chart and panel | vuetify)
+  
+3 - <a href="https://github.com/elmi-elmi/task-again-stock-management2">Code Stock Management 2<a/> (Vuetify)
+ 
+4 - <a href="https://github.com/elmi-elmi/task-stock-management">Code Stock Management 1<a/> (vuetify)
+
+
 
 
 ---
@@ -46,11 +57,7 @@ My new Projects (in progress):
 ---
 # VUE.JS
  
- <a href="https://github.com/elmi-elmi/finno-task">Cryptocurrency<a/> (crypto chart and panel | vuetify)
-  
- <a href="https://github.com/elmi-elmi/task-again-stock-management2">Code Stock Management 2<a/> (Vuetify)
- 
- <a href="https://github.com/elmi-elmi/task-stock-management">Code Stock Management 1<a/> (vuetify)
+
   
  <a href="https://noteballs-elmi-elmi.netlify.app/#/">Noteballs</a> ---- <a href="https://github.com/elmi-elmi/vue-noteball">Code<a/> Not completed
  
