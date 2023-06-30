@@ -19,7 +19,7 @@ Interview tasks I've done:
 2 -  <a href="https://github.com/elmi-elmi/finno-task">Cryptocurrency<a/> (crypto chart and panel | vuetify)
 user and password for login:
 
-  <a href="https://elmi-crypto.netlify.app/">seeOnNetlify</a> (username: eve.holt@reqres.in , password:cityslicka)
+  <a href="https://elmi-crypto.netlify.app/">seeOnNetlify</a> (username: eve.holt@reqres.in , password: cityslicka)
   
    
   
