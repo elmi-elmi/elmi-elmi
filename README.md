@@ -12,7 +12,7 @@ My new Projects (in progress):
 
 <a href="https://github.com/elmi-elmi/vue-tdd-job-search">Vue.JS</a>
 
-Intervue tasks I've done:
+Interview tasks I've done:
 
 1 - <a href="https://github.com/elmi-elmi/task-ysntm">Condut</a>
 
