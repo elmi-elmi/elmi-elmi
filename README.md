@@ -1,8 +1,11 @@
 ### Hi there 👋
 Real Projects I work on (not completed):
 
-1 - <a href="https://shaterman.yasna.live/shop/AGWAy">Shaterman</a>  
-2 - <a href="https://quarkino.yasna.live/en">Quarkino</a>   
+
+1 - <a href="https://stage.depoint.ir/fa">Depoint (almost completed - next project)</a>  
+2 - <a href="https://quarkino.yasna.live/en">Quarkino (new - vue project)</a>   
+3 - <a href="https://stage.icib.co/fa">ICIB (new - next project)</a>  
+4 - <a href="https://shaterman.com/">Shaterman (completed - vue project)</a>  
 
 My new Projects (in progress):
 
