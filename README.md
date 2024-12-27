@@ -2,9 +2,9 @@
 Real Projects I work on (not completed):
 
 
-1 - <a href="https://stage.depoint.ir/fa">Depoint (almost completed - next project)</a>  
-2 - <a href="https://quarkino.yasna.live/en">Quarkino (new - vue project)</a>   
-3 - <a href="https://stage.icib.co/fa">ICIB (new - next project)</a>  
+1 - <a href="https://icib.co/en">ICIB</a>  
+1 - <a href="https://depoint.ir/fa">Depoint</a>  
+2 - <a href="https://quarkino.com/en">Quarkino</a>   
 4 - <a href="https://shaterman.com/">Shaterman (completed - vue project)</a>  
 
 My new Projects (in progress):
